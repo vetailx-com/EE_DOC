@@ -30,7 +30,7 @@ Example:
 
 ```
 {
-    "url": "http://www.vetail-x.com/apiservices/getXml?id=fUplVGNab3pecwMDHGMEWk91XH9LDlINAVtyBGxID1FEQkEFXkoCQW1wAXBTRHl6D1cDTn5MWAgDbkxtAlRZYFoOdXpaUQN7QltXbQM",
+    "url": "SOME_URL",
     "weightedKeywords": [
         {
             "name": "Default (finance)",
